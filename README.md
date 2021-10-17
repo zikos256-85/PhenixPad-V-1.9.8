@@ -8,4 +8,5 @@ Mise A joue le 15/10/2021:
 - Suppression de la fenêtre d'invité de commande qui vous'ouvrer en arrière-plan quand vous lancez Phenix Pad
 2.Problème connu de la mise à jour:
 aucun problème n'a était découvert dans la mise a jour
+
 Prochaine mise à jour le: 12/11/2021
